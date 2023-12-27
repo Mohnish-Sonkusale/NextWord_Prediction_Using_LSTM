@@ -13,14 +13,25 @@ Tensorflow 1.0 or greater
 
 # WorkFlow
 Data collection
+
 Data preprocessing
+
 Removal of unwanted words
+
 Training Set
+
 Building Text Matrices
+
 Encoding Sequences
+
 Input and output sequences
+
 Building the model
+
 RNN (Recurrent Neural Networks)
+
 LSTM (Long Short Term Memory Cell)
+
 Fitting the model
+
 Testing the code
