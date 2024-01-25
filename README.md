@@ -1,5 +1,5 @@
 # Overview
-Predicting word from the previous text written using LSTM in tensorflow
+Predicting word from the previous text written using LSTM in tensorflow.
 
 Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow.
 
